@@ -3,18 +3,18 @@
 {% for group in projects.groups %}
 <section class="project-ledger-section" aria-labelledby="project-group-{{ forloop.index }}">
   <header class="section-heading"><h2 id="project-group-{{ forloop.index }}">{{ group.title }}</h2></header>
-  <ol class="project-ledger">
+  <ul class="record-list">
     {% for item in group.items %}
-    <li class="project-ledger__item">
-      <p class="project-ledger__period">{{ item.date }}</p>
+    <li class="record-entry">
+      <span class="record-index" aria-hidden="true">{% if forloop.index < 10 %}0{% endif %}{{ forloop.index }}</span>
       <article>
-        <p class="project-meta">{{ item.role }}</p>
+        <p class="record-meta">{% if item.date != '' %}<span>{{ item.date }}</span>{% endif %}<span>{{ item.role }}</span></p>
         <h3>{{ item.title }}</h3>
-        {% if item.body != '' %}<p>{{ item.body }}</p>{% endif %}
-        {% if item.metrics != '' %}<p class="project-meta">{{ item.metrics }}</p>{% endif %}
+        {% if item.body != '' %}<p class="record-description">{{ item.body }}</p>{% endif %}
+        {% if item.metrics != '' %}<p class="record-details">{{ item.metrics }}</p>{% endif %}
       </article>
     </li>
     {% endfor %}
-  </ol>
+  </ul>
 </section>
 {% endfor %}

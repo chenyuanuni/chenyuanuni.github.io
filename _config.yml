@@ -7,7 +7,7 @@ author:
 logo: "/assets/images/banner.png"
 
 url: "https://chenyuanuni.github.io"
-baseurl: "https://chenyuanuni.github.io"
+baseurl: ""
 timezone: Asia/Shanghai
 exclude: [README.md, scripts, vendor, Gemfile, Gemfile.lock, .bundle]
 

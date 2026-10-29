@@ -1,11 +1,123 @@
-/* Content-specific additions; the original portfolio design system is unchanged. */
+/* Shared content layouts within the portfolio's original design system. */
 .main-content .publication-metrics {
   margin: 0.5rem 0 0;
   color: var(--muted);
   font-size: 0.8125rem;
   line-height: 1.6;
 }
-.cv-entry-body { margin-top: 0.6rem; color: var(--muted); font-size: 0.9rem; }
-.main-content .cv-entry-body p { margin-top: 0.35rem; }
-.resume-summary > h3 { margin-top: 2rem; }
-.resume-summary .resume-entry strong { display: inline; }
+
+.main-content .record-list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.main-content .record-list > .record-entry {
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr);
+  gap: 1.5rem;
+  padding: 1.5rem 0;
+  margin: 0;
+}
+.record-entry > article { min-width: 0; }
+.record-index {
+  padding-top: 0.1rem;
+  color: var(--orange);
+  font-size: 0.875rem;
+  font-weight: 760;
+  font-variant-numeric: tabular-nums;
+}
+.main-content .record-list > .record-entry:first-child { padding-top: 0; }
+.main-content .record-list > .record-entry + .record-entry {
+  border-top: 1px solid var(--line);
+}
+.main-content .record-list > .record-entry::before { display: none; }
+.main-content .record-entry h3 {
+  margin: 0.5rem 0 0;
+  font-size: clamp(1.15rem, 2vw, 1.4rem);
+  line-height: 1.5;
+}
+.main-content .record-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.8rem;
+  margin: 0;
+  color: var(--orange);
+  font-size: 0.875rem;
+  font-weight: 650;
+  line-height: 1.5;
+}
+.record-meta > span + span {
+  padding-left: 0.8rem;
+  border-left: 1px solid var(--line-strong);
+}
+.main-content .record-description,
+.main-content .record-details {
+  margin: 0.55rem 0 0;
+  color: var(--muted);
+  line-height: 1.7;
+}
+.main-content .record-details { font-size: 0.9rem; }
+.main-content .record-details strong { font-weight: 650; }
+.biography-copy p { color: var(--muted); line-height: 1.8; }
+.biography-copy p:first-child { margin-top: 0; }
+.home-openings {
+  margin-top: 1.75rem;
+  padding-left: 1rem;
+  border-left: 3px solid var(--orange);
+}
+.main-content .home-openings p { margin: 0; line-height: 1.7; }
+.home-openings strong { color: var(--ink); }
+.home-openings .text-link { margin-top: 0.35rem; min-height: 2.75rem; }
+.main-content .opportunity-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem 1.5rem;
+  padding: 0;
+  margin: 1.5rem 0;
+  list-style: none;
+}
+.main-content .opportunity-list > li {
+  padding: 0;
+  margin: 0;
+  color: var(--ink);
+  font-weight: 650;
+}
+.main-content .opportunity-list > li::before { display: none; }
+.main-content .contact-page .application-note {
+  margin: 1.25rem 0 0;
+  color: var(--muted);
+}
+
+/* Text follows its containing column instead of using competing line widths. */
+.main-content .home-hero__title,
+.main-content .home-hero__statement,
+.main-content .home-hero__lede,
+.main-content .biography-copy,
+.main-content .home-openings,
+.main-content .section-heading,
+.main-content .section-heading h2,
+.main-content .section-heading > p,
+.main-content .page-title,
+.main-content .page-hero__title,
+.main-content .page-lede,
+.main-content .page-hero__lede,
+.main-content .publication-note,
+.main-content .publication-section__heading,
+.main-content .record-description,
+.main-content .record-details,
+.main-content .research-list__item p,
+.main-content .contact-page__header,
+.main-content .cv-page__header,
+.main-content .contact-page__header > p,
+.main-content .cv-page__header > p,
+.main-content .contact-page .application-note {
+  min-width: 0;
+  max-width: none;
+}
+
+@media (max-width: 49.99rem) {
+  .main-content .record-list > .record-entry {
+    grid-template-columns: 2.25rem minmax(0, 1fr);
+    column-gap: 0.9rem;
+  }
+}

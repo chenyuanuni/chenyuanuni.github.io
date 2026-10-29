@@ -1,0 +1,10 @@
+{% assign is_chinese = false %}
+{% if page.lang == 'zh-CN' %}{% assign is_chinese = true %}{% endif %}
+<section class="profile-section" aria-labelledby="profile-heading">
+  <h2 id="profile-heading">{% if is_chinese %}个人主页{% else %}Profiles{% endif %}</h2>
+  <ul class="profile-directory profile-directory--compact">
+    <li><a class="profile-card" href="https://scholar.google.com/citations?user=Vx92ROgAAAAJ&amp;hl={% if is_chinese %}zh-CN{% else %}en{% endif %}"><span class="profile-link-label">{% if is_chinese %}论文与引用{% else %}Publications and citations{% endif %}</span><strong>Google Scholar</strong><span class="profile-link-action">{% if is_chinese %}查看主页{% else %}View profile{% endif %}</span></a></li>
+    <li><a class="profile-card" href="https://www.linkedin.com/in/chenyuan-feng-1a2435112/"><span class="profile-link-label">{% if is_chinese %}职业主页{% else %}Professional profile{% endif %}</span><strong>LinkedIn</strong><span class="profile-link-action">{% if is_chinese %}查看主页{% else %}View profile{% endif %}</span></a></li>
+    <li><a class="profile-card" href="https://orcid.org/0000-0003-1758-9213"><span class="profile-link-label">{% if is_chinese %}学术身份与成果{% else %}Research identity and works{% endif %}</span><strong>ORCID</strong><span class="profile-link-action">{% if is_chinese %}查看主页{% else %}View profile{% endif %}</span></a></li>
+  </ul>
+</section>

@@ -5,7 +5,7 @@ lang: zh-CN
 nav_exclude: true
 permalink: /zh/
 translation_url: /
-description: 冯晨远从事边缘智能、联邦学习、语义通信与原生 AI 无线网络研究。
+description: 冯晨远从事无线通信与分布式人工智能研究，即将以副教授身份入职中山大学，招聘博士后、博士和硕士研究生及研究助理。
 ---
 
 <section class="home-hero" aria-labelledby="home-title">
@@ -14,33 +14,32 @@ description: 冯晨远从事边缘智能、联邦学习、语义通信与原生 
       <span class="home-hero__name">冯晨远</span>
       <span class="home-hero__statement">面向原生 AI 无线网络的边缘智能研究。</span>
     </h1>
-    <p class="home-hero__lede">英国埃克塞特大学研究员，欧盟玛丽·居里学者项目 EIMS 负责人。研究联邦学习、语义通信与智能无线系统。</p>
+    <p class="home-hero__lede">即将以<strong>副教授身份入职中山大学</strong>。现为英国埃克塞特大学研究员、欧盟玛丽·居里学者项目 EIMS 负责人，从事无线通信与分布式人工智能研究。</p>
     <div class="hero-actions" aria-label="浏览网站">
       <a class="button button--primary" href="{{ '/zh/websites/projects/' | relative_url }}">研究</a>
       <a class="button button--secondary" href="{{ '/zh/websites/publications/' | relative_url }}">成果</a>
       <a class="button button--text" href="{{ '/zh/websites/resume/' | relative_url }}">简历</a>
     </div>
+    <div class="home-openings"><p><strong>欢迎加入团队。</strong>招聘博士后、博士/硕士研究生及研究助理。</p><a class="text-link" href="{{ '/zh/websites/contact/' | relative_url }}">了解招生与招聘 <span aria-hidden="true">→</span></a></div>
   </div>
 </section>
 <figure class="hero-visual">
   <img src="{{ '/assets/images/banner.png' | relative_url }}" width="1200" height="280" alt="蓝色与橙色的抽象绘画场景" fetchpriority="high">
 </figure>
+<section class="home-section biography" aria-labelledby="biography-title">
+  <header class="section-heading"><p class="section-kicker">个人简介</p><h2 id="biography-title">研究与学术背景</h2></header>
+  <div class="biography-copy">
+    <p>2016 年获电子科技大学学士学位，2021 年获新加坡科技设计大学博士学位，师从 Tony Quek 教授。曾在法国 EURECOM 与 David Gesbert 教授开展合作研究，目前在英国埃克塞特大学与 Geyong Min 教授合作。</p>
+    <p>主持欧盟玛丽·居里学者项目 EIMS，入选国家自然科学基金优秀青年科学基金项目（海外）。研究成果包括 ESI 全球前 1% 高被引论文，曾获五项最佳论文奖，并于 2025 年获评 6G Rising Young Scientist、2026 年获评 N2Women Rising Star。</p>
+    <p>担任 IEEE Internet of Things Journal 和 IEEE Open Journal of the Communications Society 副编辑（Associate Editor）。同时开展发明专利与技术转化工作，创办 AI-RAN 初创企业，推动原生 AI 网络系统从理论走向应用。</p>
+  </div>
+</section>
 <section class="home-section appointments" aria-labelledby="appointments-title">
-  <header class="section-heading">
-    <p class="section-kicker">任职经历</p>
-    <h2 id="appointments-title">学术任职时间线</h2>
-  </header>
-  <ol class="appointment-timeline">
-    <li class="appointment-item">
-      <p class="appointment-item__period">2025.02 至今</p>
-      <div class="appointment-item__role"><h3>研究员</h3><p>英国埃克塞特大学</p></div>
-      <p class="appointment-item__focus">边缘智能与车联网多媒体系统 · EIMS / MSCA</p>
-    </li>
-    <li class="appointment-item">
-      <p class="appointment-item__period">2024.02 – 2025.01</p>
-      <div class="appointment-item__role"><h3>博士后研究员</h3><p>法国 EURECOM</p></div>
-      <p class="appointment-item__focus">Beyond 5G 与 6G-Goals 项目的网络内生人工智能研究</p>
-    </li>
+  <header class="section-heading"><p class="section-kicker">任职经历</p><h2 id="appointments-title">学术任职</h2></header>
+  <ol class="record-list">
+    <li class="record-entry"><span class="record-index" aria-hidden="true">01</span><article><p class="record-meta"><span>即将入职</span><span>中山大学</span></p><h3>副教授</h3><p class="record-description">招聘博士后、博士/硕士研究生及研究助理。</p></article></li>
+    <li class="record-entry"><span class="record-index" aria-hidden="true">02</span><article><p class="record-meta"><span>2025.02 – 至今</span><span>英国埃克塞特大学</span></p><h3>研究员</h3><p class="record-description">计算机科学系 · EIMS / MSCA</p></article></li>
+    <li class="record-entry"><span class="record-index" aria-hidden="true">03</span><article><p class="record-meta"><span>2024.02 – 2025.01</span><span>法国 EURECOM</span></p><h3>研究员</h3><p class="record-description">Beyond 5G 与 6G-Goals 项目的网络内生人工智能研究</p></article></li>
   </ol>
 </section>
 <section class="home-section research-overview" aria-labelledby="research-title">
