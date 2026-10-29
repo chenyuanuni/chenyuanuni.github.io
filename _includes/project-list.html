@@ -1,0 +1,20 @@
+{% assign data_key = 'cv_' | append: include.lang %}
+{% assign projects = site.data[data_key][2] %}
+{% for group in projects.groups %}
+<section class="project-ledger-section" aria-labelledby="project-group-{{ forloop.index }}">
+  <header class="section-heading"><h2 id="project-group-{{ forloop.index }}">{{ group.title }}</h2></header>
+  <ol class="project-ledger">
+    {% for item in group.items %}
+    <li class="project-ledger__item">
+      <p class="project-ledger__period">{{ item.date }}</p>
+      <article>
+        <p class="project-meta">{{ item.role }}</p>
+        <h3>{{ item.title }}</h3>
+        {% if item.body != '' %}<p>{{ item.body }}</p>{% endif %}
+        {% if item.metrics != '' %}<p class="project-meta">{{ item.metrics }}</p>{% endif %}
+      </article>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endfor %}

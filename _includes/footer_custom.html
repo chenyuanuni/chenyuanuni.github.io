@@ -1,0 +1,14 @@
+{% assign is_chinese = false %}
+{% if page.lang == "zh-CN" %}{% assign is_chinese = true %}{% endif %}
+<div class="portfolio-footer">
+  <div>
+    <p class="portfolio-footer__name">{% if is_chinese %}冯晨远{% else %}Chenyuan Feng{% endif %}</p>
+    <p class="portfolio-footer__note">
+      {% if is_chinese %}边缘智能 · 联邦学习 · 原生 AI 无线网络{% else %}Edge intelligence · Federated learning · AI-native networks{% endif %}
+    </p>
+  </div>
+  <div class="portfolio-footer__links">
+    <span class="portfolio-footer__email">ai.chenyuan.feng(at)gmail.com</span>
+    <a href="#top">{% if is_chinese %}返回顶部 ↑{% else %}Back to top ↑{% endif %}</a>
+  </div>
+</div>

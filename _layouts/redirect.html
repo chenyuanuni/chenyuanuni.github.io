@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+{% assign target = page.redirect_to | relative_url %}
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <meta http-equiv="refresh" content="0; url={{ target }}">
+    <link rel="canonical" href="{{ page.redirect_to | absolute_url }}">
+    <title>{% if page.lang == 'zh-CN' %}页面已迁移{% else %}Page moved{% endif %}</title>
+    <script>window.location.replace({{ target | jsonify }});</script>
+  </head>
+  <body>
+    <p>
+      {% if page.lang == 'zh-CN' %}
+        页面已迁移，正在前往<a href="{{ target }}">新地址</a>。
+      {% else %}
+        This page has moved. Continue to the <a href="{{ target }}">new address</a>.
+      {% endif %}
+    </p>
+  </body>
+</html>

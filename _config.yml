@@ -1,0 +1,19 @@
+title: Chenyuan Feng
+description: Research in edge intelligence, federated learning, semantic communications, and AI-native wireless networks
+theme: just-the-docs
+lang: en
+author:
+  name: Chenyuan Feng
+logo: "/assets/images/banner.png"
+
+url: "https://chenyuanuni.github.io"
+baseurl: "https://chenyuanuni.github.io"
+timezone: Asia/Shanghai
+exclude: [README.md, scripts, vendor, Gemfile, Gemfile.lock, .bundle]
+
+search_enabled: false
+heading_anchors: false
+color_scheme: light
+
+# aux_links:
+#   Template Repository: https://github.com/just-the-docs/just-the-docs-template

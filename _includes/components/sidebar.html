@@ -1,0 +1,29 @@
+{%- assign is_chinese = false -%}
+{%- if page.lang == "zh-CN" -%}
+  {%- assign is_chinese = true -%}
+{%- endif -%}
+{%- assign localized_home = "/" -%}
+{%- if is_chinese -%}
+  {%- assign localized_home = "/zh/" -%}
+{%- endif -%}
+
+<header class="side-bar" role="banner">
+  <div class="site-shell">
+    <div class="site-header">
+      <a href="{{ localized_home | relative_url }}" class="site-title" aria-label="{% if is_chinese %}冯晨远首页{% else %}Chenyuan Feng home{% endif %}">
+        <span class="brand-mark" aria-hidden="true">CF</span>
+        <span class="brand-copy">
+          <span class="brand-name">{% if is_chinese %}冯晨远{% else %}{{ site.title }}{% endif %}</span>
+          <span class="brand-role">{% if is_chinese %}埃克塞特大学 · 研究员{% else %}Research Fellow · Exeter{% endif %}</span>
+        </span>
+      </a>
+      <button id="menu-button" class="site-button btn-reset" type="button" aria-label="{% if is_chinese %}切换导航菜单{% else %}Toggle menu{% endif %}" aria-controls="site-nav" aria-expanded="false" aria-pressed="false">
+        <span class="menu-label">{% if is_chinese %}菜单{% else %}Menu{% endif %}</span>
+        <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-menu"></use></svg>
+      </button>
+    </div>
+
+    {% include components/site_nav.html %}
+  </div>
+</header>
+</div>

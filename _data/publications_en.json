@@ -1,0 +1,507 @@
+[
+  {
+    "id": "journals",
+    "title": "Journal Articles",
+    "items": [
+      {
+        "key": "cf_s94",
+        "html": "Siyang Wang, Haitao Zhao, Wenchao Xia, <strong>Chenyuan Feng</strong>, Zihan Chen, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/jiot.2026.3745435\">Adaptive semi-federated learning with reverse auction incentive and flexible parameter freezing</a>. <em>IEEE Internet of Things Journal</em>, 2026, Early access.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.7</strong>"
+      },
+      {
+        "key": "cf_s23",
+        "html": "Song Gao, Rui Meng, Xiaodong Xu, Haixiao Gao, Yiming Liu, <strong>Chenyuan Feng</strong>, Ping Zhang, Tony Q. S. Quek, and Dusit Niyato. <a href=\"https://doi.org/10.1109/tmc.2026.3678288\">SemSteDiff: generative diffusion model-based coverless semantic steganography communication</a>. <em>IEEE Transactions on Mobile Computing</em>, 25(9):14319–14335, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.8</strong>"
+      },
+      {
+        "key": "cf_j09",
+        "html": "Minjie Tang, <strong>Chenyuan Feng</strong><sup>*</sup>, Geyong Min, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tvt.2026.3668012\">Reduced-order online robust control for linear systems over stochastic MIMO vehicular channels</a>. <em>IEEE Transactions on Vehicular Technology</em>, 75(8):16372–16388, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>7.5</strong>"
+      },
+      {
+        "key": "cf_s74",
+        "html": "Haojin Li, Anbang Zhang, Chen Sun, <strong>Chenyuan Feng</strong>, Kaiqian Qu, Tony Q. S. Quek, and Haijun Zhang. <a href=\"https://doi.org/10.1109/tvt.2026.3678249\">Empower low-altitude economy: a reliability-aware dynamic weighting allocation for multi-modal UAV beam prediction</a>. <em>IEEE Transactions on Vehicular Technology</em>, 75(8):18732–18736, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>7.5</strong>"
+      },
+      {
+        "key": "cf_s60",
+        "html": "Xinbo Gao, <strong>Chenyuan Feng</strong>, Minjie Tang, Zunqi Li, Xiaojie Fang, Zhuoming Li, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tvt.2026.3654933\">DC-BL: flexible delay-Doppler domain channel estimation via decoupled Bayesian learning</a>. <em>IEEE Transactions on Vehicular Technology</em>, 75(7):13063–13079, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>7.5</strong>"
+      },
+      {
+        "key": "cf_j21",
+        "html": "Zihan Chen, Longyu Zhou, Shengyu Zhang, <strong>Chenyuan Feng</strong><sup>*</sup>, and Dusit Niyato. <a href=\"https://doi.org/10.1016/j.cja.2025.103982\">Efficient foundation model service provision over airborne networks: collaborative tuning and inference</a>. <em>Chinese Journal of Aeronautics</em>, 39(5):103982, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>6.9</strong>"
+      },
+      {
+        "key": "cf_s63",
+        "html": "Zhenyu Chen, Xinghua Sun, Huadong Li, <strong>Chenyuan Feng</strong>, Xijun Wang, Qiaofeng Xue, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/jiot.2025.3647456\">Reinforcement learning-based distributed channel access for delay optimization</a>. <em>IEEE Internet of Things Journal</em>, 13(7):13925–13939, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.7</strong>"
+      },
+      {
+        "key": "cf_j17",
+        "html": "Minjie Tang, <strong>Chenyuan Feng</strong><sup>*</sup>, Geyong Min, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tvt.2025.3618788\">H-infinity tracking for intelligent edge-controlled systems over fading channels in AI-RAN</a>. <em>IEEE Transactions on Vehicular Technology</em>, 75(4):6916–6921, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>7.5</strong>"
+      },
+      {
+        "key": "cf_j12",
+        "html": "Shuaishuai Guo, Anbang Zhang, Yanhu Wang, <strong>Chenyuan Feng</strong><sup>*</sup>, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/mnet.2025.3547760\">Semantic-enabled 6G communication: a task-oriented and privacy-preserving perspective</a>. <em>IEEE Network</em>, 40(2):113–121, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.8</strong>"
+      },
+      {
+        "key": "cf_j16",
+        "html": "Minjie Tang, <strong>Chenyuan Feng</strong><sup>*</sup>, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tvt.2025.3601731\">Decentralized semantic communication and cooperative tracking control for a UAV swarm over wireless MIMO fading channels</a>. <em>IEEE Transactions on Vehicular Technology</em>, 75(2):3354–3359, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>7.5</strong>"
+      },
+      {
+        "key": "cf_s36",
+        "html": "<strong>Chenyuan Feng</strong>, Howard H. Yang, Kun Guo, Wenchao Xia, Chenxi Liu, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1016/j.jiixd.2025.12.013\">AI-RAN: the pathway to future wireless networks</a>. <em>Journal of Information and Intelligence</em>, 4(1):5–22, 2026.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s78",
+        "html": "Chenxi Liu, Howard H. Yang, Kun Guo, Wenchao Xia, <strong>Chenyuan Feng</strong>, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1016/j.jiixd.2025.12.012\">Artificial intelligence-native radio access networks (AI-RAN): foundations, methodologies, and applications</a>. <em>Journal of Information and Intelligence</em>, 4(1):1–4, 2026.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_j08",
+        "html": "Minjie Tang, <strong>Chenyuan Feng</strong><sup>*</sup>, Geyong Min, Kun Yang, Yongming Huang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tccn.2026.3676031\">Toward robust UAV swarm coordination in low-altitude networks: online learning control under system and channel uncertainty</a>. <em>IEEE Transactions on Cognitive Communications and Networking</em>, 12:7017–7033, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.0</strong>"
+      },
+      {
+        "key": "cf_j27",
+        "html": "Zhaoyang Liu, Xijun Wang, <strong>Chenyuan Feng</strong>, Xinghua Sun, Wen Zhan, and Xiang Chen. <a href=\"https://doi.org/10.1109/tcomm.2025.3631558\">Meta-reinforcement learning with mixture of experts for generalizable multi access in heterogeneous wireless networks</a>. <em>IEEE Transactions on Communications</em>, 74:870–885, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.4</strong>"
+      },
+      {
+        "key": "cf_j28",
+        "html": "Dayu Fan, Rui Meng, Xiaodong Xu, Yiming Liu, Guoshun Nan, <strong>Chenyuan Feng</strong>, Shujun Han, Song Gao, Bingxuan Xu, Dusit Niyato, Tony Q. S. Quek, and Ping Zhang. <a href=\"https://doi.org/10.1109/comst.2026.3671110\">Generative diffusion models for wireless networks: fundamental, architecture, and state-of-the-art</a>. <em>IEEE Communications Surveys &amp; Tutorials</em>, 28:5632–5677, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>50.6</strong>"
+      },
+      {
+        "key": "cf_s25",
+        "html": "Yu Yao, Zekun Lu, Gaojie Chen, Chong Huang, <strong>Chenyuan Feng</strong>, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/twc.2026.3707527\">Interference management in ISAC–SAGINs based on transformer-enabled mean-field reinforcement learning method</a>. <em>IEEE Transactions on Wireless Communications</em>, 25:19628–19642, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>10.3</strong>"
+      },
+      {
+        "key": "cf_s26",
+        "html": "Rui Meng, Zixuan Huang, Jingshu Yan, Mengying Sun, Yiming Liu, <strong>Chenyuan Feng</strong>, Xiaodong Xu, Zhidi Zhang, Song Gao, Ping Zhang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tccn.2026.3683191\">Semantic radio access networks: architecture, state-of-the-art, and future directions</a>. <em>IEEE Transactions on Cognitive Communications and Networking</em>, 12:7076–7097, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.0</strong>"
+      },
+      {
+        "key": "cf_s43",
+        "html": "Mingqi Han, Xinghua Sun, Huadong Li, <strong>Chenyuan Feng</strong>, Xijun Wang, Qiaofeng Xue, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/lwc.2026.3656210\">Multi-LLM cooperation-based joint intent-driven network slicing and resource allocation</a>. <em>IEEE Wireless Communications Letters</em>, 15:1568–1572, 2026.",
+        "metrics": "WOS 2026: <strong>Q1/Q2</strong> ·  IF 2026: <strong>5.1</strong>"
+      },
+      {
+        "key": "cf_s57",
+        "html": "Anbang Zhang, Shuaishuai Guo, <strong>Chenyuan Feng</strong>, Hongyang Du, Haojin Li, Chen Sun, and Haijun Zhang. <a href=\"https://doi.org/10.1109/mwc.2026.3683850\">Less signals, more understanding: channel-capacity codebook design for digital task-oriented semantic communication</a>. <em>IEEE Wireless Communications</em>, 2026, Early access.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>13.4</strong>"
+      },
+      {
+        "key": "cf_s58",
+        "html": "Shuying Gan, <strong>Chenyuan Feng</strong>, Chao Xu, Xinghua Sun, Xiang Chen, and Xijun Wang. <a href=\"https://doi.org/10.1109/tcomm.2026.3690356\">Minimizing task-oriented age of information for remote monitoring with pre-identification</a>. <em>IEEE Transactions on Communications</em>, 74:8595–8610, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.4</strong>"
+      },
+      {
+        "key": "cf_s59",
+        "html": "Anbang Zhang, Shuaishuai Guo, <strong>Chenyuan Feng</strong>, Shuai Liu, Hongyang Du, and Geyong Min. <a href=\"https://doi.org/10.1109/twc.2026.3677460\">Spectral efficiency-aware codebook design for task-oriented semantic communications</a>. <em>IEEE Transactions on Wireless Communications</em>, 25:14535–14549, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>10.3</strong>"
+      },
+      {
+        "key": "cf_s69",
+        "html": "Shuaishuai Guo, Kaiqian Qu, Chenhao Qi, Anbang Zhang, <strong>Chenyuan Feng</strong>, and Geyong Min. <a href=\"https://doi.org/10.1109/jsac.2026.3701334\">Generalized signal design for RF and optical SWIPT in space–air–ground integrated networks</a>. <em>IEEE Journal on Selected Areas in Communications</em>, 44:4953–4967, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>16.8</strong>"
+      },
+      {
+        "key": "cf_s70",
+        "html": "Mingqi Han, Xinghua Sun, <strong>Chenyuan Feng</strong>, Wen Zhan, Xijun Wang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/lcomm.2026.3697578\">Offloading optimization in intent-driven edge computing: an LLM-based distributed framework</a>. <em>IEEE Communications Letters</em>, 30:2113–2117, 2026.",
+        "metrics": "WOS 2026: <strong>Q2</strong> ·  IF 2026: <strong>4.5</strong>"
+      },
+      {
+        "key": "cf_s75",
+        "html": "Jiaqi Zhu, <strong>Chenyuan Feng</strong>, Giovanni Geraci, Chenxi Liu, Meng Zhang, and Howard H. Yang. <a href=\"https://doi.org/10.1109/tnse.2026.3678425\">The meta distribution of the SINR in joint communication and sensing networks</a>. <em>IEEE Transactions on Network Science and Engineering</em>, 13:8462–8480, 2026.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>7.3</strong>"
+      },
+      {
+        "key": "cf_j13",
+        "html": "Yanhu Wang, Muhammad Muzammil Afzal, Zhengyang Li, Jie Zhou, <strong>Chenyuan Feng</strong><sup>*</sup>, Shuaishuai Guo, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tccn.2025.3548615\">Large language model as a catalyst: a paradigm shift in base station siting optimization</a>. <em>IEEE Transactions on Cognitive Communications and Networking</em>, 11(6):4313–4327, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.0</strong>"
+      },
+      {
+        "key": "cf_s37",
+        "html": "<strong>Chenyuan Feng</strong>, Shuaishuai Guo, Mao Van Ngo, Zihan Chen, Howard H. Yang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.23919/jcin.2025.11357506\">Towards green and sustainable AI-native RAN: from prediction to live testbed deployment</a>. <em>Journal of Communications and Information Networks</em>, 10(4):326–339, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_j14",
+        "html": "Biqian Feng, <strong>Chenyuan Feng</strong><sup>*</sup>, Kai-Kit Wong, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tvt.2025.3559786\">Deep unfolding neural networks for fluid antenna-enhanced vehicular communication</a>. <em>IEEE Transactions on Vehicular Technology</em>, 74(9):14793–14798, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>7.5</strong>"
+      },
+      {
+        "key": "cf_j26",
+        "html": "Xiang Chen, Zhiheng Guo, Xijun Wang, <strong>Chenyuan Feng</strong>, Howard H. Yang, Shuangfeng Han, Xiaoyun Wang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/mcom.001.2400582\">Toward 6G native-AI network: foundation model-based cloud-edge-end collaboration framework</a>. <em>IEEE Communications Magazine</em>, 63(8):23–30, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.3</strong>"
+      },
+      {
+        "key": "cf_j15",
+        "html": "Mingxiong Zhao, Shihao Zhao, <strong>Chenyuan Feng</strong><sup>*</sup>, Howard H. Yang, Dusit Niyato, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/jiot.2025.3554759\">SFedXL: semi-synchronous federated learning with cross-sharpness and layer-freezing</a>. <em>IEEE Internet of Things Journal</em>, 12(12):18692–18707, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.7</strong>"
+      },
+      {
+        "key": "cf_j19",
+        "html": "Shujing Li, Yanhu Wang, Shuaishuai Guo, and <strong>Chenyuan Feng</strong><sup>*</sup>. <a href=\"https://doi.org/10.1109/tccn.2024.3465651\">Task-oriented communication for graph data: a graph information bottleneck approach</a>. <em>IEEE Transactions on Cognitive Communications and Networking</em>, 11(3):1723–1737, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.0</strong>"
+      },
+      {
+        "key": "cf_j04",
+        "html": "<strong>Chenyuan Feng</strong>, Daquan Feng, Guanxin Huang, Zuozhu Liu, Zhenzhong Wang, and Xiang-Gen Xia. <a href=\"https://doi.org/10.1109/tnnls.2024.3411402\">Robust privacy-preserving recommendation systems driven by multimodal federated learning</a>. <em>IEEE Transactions on Neural Networks and Learning Systems</em>, 36(5):8896–8910, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>9.7</strong>"
+      },
+      {
+        "key": "cf_j10",
+        "html": "Biqian Feng, <strong>Chenyuan Feng</strong><sup>*</sup>, Geyong Min, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tvt.2024.3507816\">Two-timescale adaptive live video streaming transmission mechanism for vehicular networks</a>. <em>IEEE Transactions on Vehicular Technology</em>, 74(4):6823–6828, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>7.5</strong>"
+      },
+      {
+        "key": "cf_j11",
+        "html": "Xijun Wang, Dongshan Ye, <strong>Chenyuan Feng</strong><sup>*</sup>, Howard H. Yang, Xiang Chen<sup>*</sup>, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/mwc.001.2400304\">Trustworthy image semantic communication with GenAI: explainablity, controllability, and efficiency</a>. <em>IEEE Wireless Communications</em>, 32(2):68–75, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>13.4</strong>"
+      },
+      {
+        "key": "cf_j25",
+        "html": "Xinyi Hu, Zihan Chen, <strong>Chenyuan Feng</strong>, Geyong Min, Tony Q. S. Quek, and Howard H. Yang. <a href=\"https://doi.org/10.1109/tmc.2024.3507286\">Sparsified random partial model update for personalized federated learning</a>. <em>IEEE Transactions on Mobile Computing</em>, 24(4):3076–3091, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.8</strong>"
+      },
+      {
+        "key": "cf_j05",
+        "html": "<strong>Chenyuan Feng</strong>, Ahmed Arafa, Zihan Chen, Mingxiong Zhao, Tony Q. S. Quek, and Howard H. Yang. <a href=\"https://doi.org/10.1109/tmlcn.2024.3511475\">Toward understanding federated learning over unreliable networks</a>. <em>IEEE Transactions on Machine Learning in Communications and Networking</em>, 3:80–97, 2025.",
+        "metrics": "WOS 2026: <strong>Q2</strong> ·  IF 2026: <strong>4.9</strong>"
+      },
+      {
+        "key": "cf_j20",
+        "html": "Yanhu Wang, Ruidong Li, Changhong Wang, Jia Ye, <strong>Chenyuan Feng</strong><sup>*</sup>, and Shuaishuai Guo. <a href=\"https://doi.org/10.1109/ojcoms.2025.3586462\">Collaborative learning for task-oriented semantic communications: overcoming data mismatch between transceivers</a>. <em>IEEE Open Journal of the Communications Society</em>, 6:5778–5794, 2025.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>6.2</strong>"
+      },
+      {
+        "key": "cf_j03",
+        "html": "<strong>Chenyuan Feng</strong>, Howard H. Yang, Siye Wang, Zhongyuan Zhao, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/tcomm.2023.3310529\">Hybrid learning: when centralized learning meets federated learning in the mobile edge computing systems</a>. <em>IEEE Transactions on Communications</em>, 71(12):7008–7022, 2023.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.4</strong>"
+      },
+      {
+        "key": "cf_j18",
+        "html": "Biqian Feng, <strong>Chenyuan Feng</strong>, Daquan Feng, Yongpeng Wu, and Xiang-Gen Xia. <a href=\"https://doi.org/10.1109/tcomm.2023.3277530\">Proactive content caching scheme in urban vehicular networks</a>. <em>IEEE Transactions on Communications</em>, 71(7):4165–4180, 2023.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.4</strong>"
+      },
+      {
+        "key": "cf_j22",
+        "html": "Yucheng Chen, <strong>Chenyuan Feng</strong>, and Daquan Feng. <a href=\"https://doi.org/10.1109/lcomm.2023.3245101\">Privacy-preserving hierarchical federated recommendation systems</a>. <em>IEEE Communications Letters</em>, 27(5):1312–1316, 2023.",
+        "metrics": "WOS 2026: <strong>Q2</strong> ·  IF 2026: <strong>4.5</strong>"
+      },
+      {
+        "key": "cf_j24",
+        "html": "Chaoqun You, Daquan Feng, Kun Guo, Howard H. Yang, <strong>Chenyuan Feng</strong>, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/twc.2022.3210434\">Semi-synchronous personalized federated learning over mobile edge networks</a>. <em>IEEE Transactions on Wireless Communications</em>, 22(4):2262–2277, 2023.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>10.3</strong>"
+      },
+      {
+        "key": "cf_j01",
+        "html": "<strong>Chenyuan Feng</strong>, Howard H. Yang, Deshun Hu, Zhiwei Zhao, Tony Q. S. Quek, and Geyong Min. <a href=\"https://doi.org/10.1109/twc.2022.3166386\">Mobility-aware cluster federated learning in hierarchical wireless networks</a>. <em>IEEE Transactions on Wireless Communications</em>, 21(10):8441–8458, 2022.",
+        "metrics": "<strong>ESI Highly Cited, Top 1%</strong> ·  WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>10.3</strong>"
+      },
+      {
+        "key": "cf_j23",
+        "html": "Rong Cong, Zhiwei Zhao, Geyong Min, <strong>Chenyuan Feng</strong>, and Yuhong Jiang. <a href=\"https://doi.org/10.1109/jiot.2021.3065357\">EdgeGO: a mobile resource-sharing framework for 6G edge computing in massive IoT systems</a>. <em>IEEE Internet of Things Journal</em>, 9(16):14521–14529, 2022.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.7</strong>"
+      },
+      {
+        "key": "cf_j06",
+        "html": "Zhongyuan Zhao, <strong>Chenyuan Feng</strong><sup>*</sup>, Wei Hong, Jiamo Jiang, Chao Jia, Tony Q. S. Quek, and Mugen Peng. <a href=\"https://doi.org/10.1109/twc.2021.3108197\">Federated learning with non-IID data in wireless networks</a>. <em>IEEE Transactions on Wireless Communications</em>, 21(3):1927–1942, 2022.",
+        "metrics": "<strong>ESI Highly Cited, Top 1%</strong> ·  WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>10.3</strong>"
+      },
+      {
+        "key": "cf_j02",
+        "html": "<strong>Chenyuan Feng</strong>, Zhongyuan Zhao, Yidong Wang, Tony Q. S. Quek, and Mugen Peng. <a href=\"https://doi.org/10.1109/tcomm.2021.3087125\">On the design of federated learning in the mobile edge computing systems</a>. <em>IEEE Transactions on Communications</em>, 69(9):5902–5916, 2021.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>8.4</strong>"
+      },
+      {
+        "key": "cf_j07",
+        "html": "Zhongyuan Zhao, <strong>Chenyuan Feng</strong>, Howard H. Yang, and Xueting Luo. <a href=\"https://doi.org/10.1109/mwc.001.1900370\">Federated-learning-enabled intelligent fog radio access networks: fundamental theory, key techniques, and future trends</a>. <em>IEEE Wireless Communications</em>, 27(2):22–28, 2020.",
+        "metrics": "WOS 2026: <strong>Q1</strong> ·  IF 2026: <strong>13.4</strong>"
+      }
+    ]
+  },
+  {
+    "id": "conferences",
+    "title": "Conference and Workshop Papers",
+    "items": [
+      {
+        "key": "cf_s71",
+        "html": "Xiaolin Huang, <strong>Chenyuan Feng</strong>, Shuying Gan, Xiang Chen, and Xijun Wang. <a href=\"https://doi.org/10.1109/iccworkshops63917.2026.11586544\">Optimal policy-based adaptive retrieval-augmented generation for O-RAN Q&amp;A</a>. <em>2026 IEEE International Conference on Communications Workshops (ICC Workshops)</em>, pp. 1–6, IEEE, 2026.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s72",
+        "html": "Shuying Gan, Xiang Chen, <strong>Chenyuan Feng</strong>, Chao Xu, Juan Liu, and Xijun Wang. <a href=\"https://doi.org/10.1109/infocom59046.2026.11571283\">Split chain-of-thought for task-oriented remote reasoning systems</a>. <em>IEEE INFOCOM 2026 - IEEE Conference on Computer Communications</em>, pp. 1–6, IEEE, 2026.",
+        "metrics": "CCF 2026: <strong>A</strong> ·  CORE 2026: <strong>A<sup>*</sup></strong>"
+      },
+      {
+        "key": "cf_s73",
+        "html": "Wenchao Xia, Siyang Wang, Haitao Zhao, <strong>Chenyuan Feng</strong>, Zihan Chen, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/ictc70246.2026.11650219\">Adaptive semi-federated learning with flexible parameter freezing</a>. <em>2026 7th Information Communication Technologies Conference (ICTC)</em>, pp. 369–373, IEEE, 2026.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s79",
+        "html": "Yi Zhao, Zhanwei Yu, <strong>Chenyuan Feng</strong>, Lei You, Lei Lei, and Di Yuan. <a href=\"https://doi.org/10.1109/globecom59602.2025.11432690\">Orchestrating in the sky: joint routing and client selection for federated learning in LEO networks</a>. <em>GLOBECOM 2025 - 2025 IEEE Global Communications Conference</em>, pp. 5789–5795, IEEE, 2025.",
+        "metrics": "CCF 2026: <strong>C</strong> ·  CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_s81",
+        "html": "Haoran Wen, Zhiheng Guo, <strong>Chenyuan Feng</strong>, Xiang Chen, Tony Q. S. Quek, and Xijun Wang. <a href=\"https://doi.org/10.1109/wcsp68525.2025.1010497\">Federated contrastive learning from unlabeled streaming data in AI-RAN</a>. <em>2025 Seventeenth International Conference on Wireless Communications and Signal Processing (WCSP)</em>, pp. 1–6, IEEE, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_c03",
+        "html": "Minjie Tang, <strong>Chenyuan Feng</strong><sup>*</sup>, Xijun Wang, Chenxi Liu, Yongming Huang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/icct67417.2025.11374089\">UAV swarm tracking in low-altitude economies: a robust online learning-based control strategy</a>. <em>2025 IEEE 25th International Conference on Communication Technology (ICCT)</em>, pp. 1027–1032, 2025.",
+        "metrics": "<strong>Best Paper Award</strong>"
+      },
+      {
+        "key": "cf_s82",
+        "html": "<strong>Chenyuan Feng</strong>, Zhenyu Feng, Jiaxi Yang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/icct67417.2025.11374126\">Simulation-driven analysis of AI-RAN enabled cooperative content delivery in vehicular networks</a>. <em>2025 IEEE 25th International Conference on Communication Technology (ICCT)</em>, pp. 384–389, IEEE, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s84",
+        "html": "Ningyuan Qiu, Shuying Gan, Xijun Wang, <strong>Chenyuan Feng</strong>, Xiang Chen, Shuangfeng Han, and Xiaoyun Wang. <a href=\"https://doi.org/10.1109/fcn66513.2025.11296658\">Joint request batching and worker assignment in AI-RAN edge inference systems</a>. <em>2025 International Conference on Future Communications and Networks (FCN)</em>, pp. 1–6, IEEE, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s44",
+        "html": "<strong>Chenyuan Feng</strong>, Zhenyu Feng, Jiaxi Yang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/icccworkshops67136.2025.11148168\">An agentic AI-based radio access network for efficient video delivery in internet of vehicles</a>. <em>2025 IEEE/CIC International Conference on Communications in China (ICCC Workshops)</em>, pp. 1–6, IEEE, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s85",
+        "html": "Zhiheng Guo, Zhaoyang Liu, <strong>Chenyuan Feng</strong>, Xijun Wang, Howard H. Yang, Xinghua Sun, and Xiang Chen. <a href=\"https://doi.org/10.1109/iccc65529.2025.11149262\">Memory-efficient low-rank fine-tuning for AoA estimation in AI-enabled RANs</a>. <em>2025 IEEE/CIC International Conference on Communications in China (ICCC)</em>, pp. 1–6, IEEE, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s86",
+        "html": "Xinyu Gu, Xinghua Sun, <strong>Chenyuan Feng</strong>, Xijun Wang, and Xiang Chen. <a href=\"https://doi.org/10.1109/ijcnn64981.2025.11227876\">FedSIT: efficient federated fine-tuning with model splitting and importance-based tuning</a>. <em>2025 International Joint Conference on Neural Networks (IJCNN)</em>, pp. 1–8, IEEE, 2025.",
+        "metrics": "CCF 2026: <strong>C</strong> ·  CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_s87",
+        "html": "Biqian Feng, <strong>Chenyuan Feng</strong>, Wenchao Xia, Chongwen Huang, Hongbo Zhu, Kai-Kit Wong, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/iwrfat65352.2025.11103242\">Antenna trajectory-aware sum-rate maximization for fluid antenna-enhanced wireless networks</a>. <em>2025 IEEE International Workshop on Radio Frequency and Antenna Technologies (iWRF&amp;AT)</em>, pp. 5–10, IEEE, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s88",
+        "html": "Jiacheng Wang, <strong>Chenyuan Feng</strong>, Geng Sun, Hongyang Du, Dusit Niyato, Tony Q. S. Quek, and Victor C. M. Leung. <a href=\"https://doi.org/10.1109/iwrfat65352.2025.11103416\">Security enhancement of CSI-based wireless sensing via generative AI</a>. <em>2025 IEEE International Workshop on Radio Frequency and Antenna Technologies (iWRF&amp;AT)</em>, pp. 83–88, IEEE, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_c04",
+        "html": "Shuying Gan, Xijun Wang, <strong>Chenyuan Feng</strong><sup>*</sup>, Chao Xu, Howard H. Yang, Xiang Chen, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/icccs65393.2025.11069776\">Task-oriented age of information for remote inference with hybrid language models</a>. <em>2025 10th International Conference on Computer and Communication System (ICCCS)</em>, pp. 64–69, 2025.",
+        "metrics": "<strong>10th Anniversary Best Paper Award</strong>"
+      },
+      {
+        "key": "cf_c10",
+        "html": "Minjie Tang, <strong>Chenyuan Feng</strong>, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/wcnc61545.2025.10978127\">Data-driven online learning algorithm for optimal linear tracking control over unreliable wireless MIMO fading channels</a>. <em>2025 IEEE Wireless Communications and Networking Conference (WCNC)</em>, pp. 1–6, 2025.",
+        "metrics": "CCF 2026: <strong>C</strong> ·  CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_c08",
+        "html": "<strong>Chenyuan Feng</strong>, and David Gesbert. <a href=\"https://doi.org/10.1109/globecom52923.2024.10901404\">Spatial domain prediction of optimal MIMO beam alignment pairs in D2D networks</a>. <em>GLOBECOM 2024 - 2024 IEEE Global Communications Conference</em>, pp. 5471–5476, 2024.",
+        "metrics": "CCF 2026: <strong>C</strong> ·  CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_s90",
+        "html": "Feifan Liu, <strong>Chenyuan Feng</strong>, Xijun Wang, and Xiang Chen. <a href=\"https://doi.org/10.1109/fcn64323.2024.10985644\">Cost-efficient beam alignment in mmWave communications enlightened by image restoration</a>. <em>2024 International Conference on Future Communications and Networks (FCN)</em>, pp. 1–6, IEEE, 2024.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s49",
+        "html": "Biqian Feng, Xue Han, and <strong>Chenyuan Feng</strong>. <a href=\"https://www.eurecom.fr/en/publication/7883\">Harmonizing efficiency and precision in semantic-bit coexisting communication systems</a>. <em>2024 22nd International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks Workshops (WiOpt)</em>, 2024.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_c02",
+        "html": "Zhenyu Feng, Jiajun Ye, and <strong>Chenyuan Feng</strong><sup>*</sup>. <a href=\"https://doi.org/10.1109/icct62411.2024.10946502\">Edge computing empowered video content delivery strategy in the internet of vehicles</a>. <em>2024 IEEE 24th International Conference on Communication Technology (ICCT)</em>, pp. 599–604, 2024.",
+        "metrics": "<strong>Best Paper Award</strong>"
+      },
+      {
+        "key": "cf_s66",
+        "html": "Mingxiong Zhao, Shihao Zhao, <strong>Chenyuan Feng</strong>, Howard H. Yang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/icct62411.2024.10946622\">SFedXSL: semi-synchronous federated cross-sharpness learning for UAV swarm</a>. <em>2024 IEEE 24th International Conference on Communication Technology (ICCT)</em>, pp. 1271–1276, IEEE, 2024.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s55",
+        "html": "Wei Dong, Howard H. Yang, <strong>Chenyuan Feng</strong>, and Chen Sun. <a href=\"https://doi.org/10.1109/isit57864.2024.10619436\">Hierarchical federated learning: the interplay of user mobility and data heterogeneity</a>. <em>2024 IEEE International Symposium on Information Theory (ISIT)</em>, pp. 1629–1634, IEEE, 2024.",
+        "metrics": "CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_s24",
+        "html": "Kun Ma, <strong>Chenyuan Feng</strong>, Giovanni Geraci, and Howard H. Yang. <a href=\"https://doi.org/10.1109/iccworkshops59551.2024.10615428\">The meta distribution of the SIR in joint communication and sensing networks</a>. <em>2024 IEEE International Conference on Communications Workshops (ICC Workshops)</em>, pp. 691–696, IEEE, 2024.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s56",
+        "html": "<strong>Chenyuan Feng</strong>, Zhenyu Feng, and Qing Wang. <a href=\"https://doi.org/10.1109/icasspw62465.2024.10627177\">Recommendation algorithm based on federated multi-modal learning</a>. <em>2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)</em>, pp. 229–233, IEEE, 2024.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s40",
+        "html": "Jiaxin Yang, <strong>Chenyuan Feng</strong>, Wenzhe Shi, and Daquan Feng. <a href=\"https://doi.org/10.1109/icct59356.2023.10419482\">Dynamic partition caching and replacement scheme in the internet of vehicles</a>. <em>2023 IEEE 23rd International Conference on Communication Technology (ICCT)</em>, pp. 1013–1018, IEEE, 2023.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s92",
+        "html": "Yanzhe Hu, <strong>Chenyuan Feng</strong>, Wei Jiang, Wenzhe Shi, and Daquan Feng. <a href=\"https://doi.org/10.1109/icct59356.2023.10419404\">Service decision mechanism based on traffic flow prediction in the internet of vehicles</a>. <em>2023 IEEE 23rd International Conference on Communication Technology (ICCT)</em>, pp. 1036–1041, IEEE, 2023.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s67",
+        "html": "Xinzhi Ouyang, <strong>Chenyuan Feng</strong>, Daquan Feng, and Howard H. Yang. <a href=\"https://doi.org/10.1109/secon58729.2023.10287533\">Privacy-preserving mobility-aware federated collaborative filtering framework for caching prediction in vehicular networks</a>. <em>2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)</em>, pp. 118–123, IEEE, 2023.",
+        "metrics": "CCF 2026: <strong>B</strong> ·  CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_s51",
+        "html": "Hanlong Peng, <strong>Chenyuan Feng</strong>, and Qiang Li. <a href=\"https://doi.org/10.1109/cyber59472.2023.10256503\">User state prediction based on channel quality feedback in 5G broadcast</a>. <em>2023 IEEE 13th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (CYBER)</em>, pp. 547–551, IEEE, 2023.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s41",
+        "html": "Daquan Feng, Guanxin Huang, <strong>Chenyuan Feng</strong>, Bin Cao, Zhenzhong Wang, and Xiang-Gen Xia. <a href=\"https://doi.org/10.1109/wcnc55385.2023.10118906\">EAPS: edge-assisted privacy-preserving federated prediction systems</a>. <em>2023 IEEE Wireless Communications and Networking Conference (WCNC)</em>, pp. 1–6, IEEE, 2023.",
+        "metrics": "CCF 2026: <strong>C</strong> ·  CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_s19",
+        "html": "Shangyin Weng, Lei Zhang, Daquan Feng, <strong>Chenyuan Feng</strong>, Ruiyu Wang, Paulo Valente Klaine, and Muhammad Ali Imran. <a href=\"https://doi.org/10.1109/ijcnn55064.2022.9889795\">Privacy-preserving federated learning based on differential privacy and momentum gradient descent</a>. <em>2022 International Joint Conference on Neural Networks (IJCNN)</em>, pp. 1–6, IEEE, 2022.",
+        "metrics": "CCF 2026: <strong>C</strong> ·  CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_c07",
+        "html": "<strong>Chenyuan Feng</strong>, Howard H. Yang, Deshun Hu, Tony Q. S. Quek, Zhiwei Zhao, and Geyong Min. <a href=\"https://doi.org/10.1109/globecom46510.2021.9685129\">Federated learning with user mobility in hierarchical wireless networks</a>. <em>2021 IEEE Global Communications Conference (GLOBECOM)</em>, pp. 1–6, 2021.",
+        "metrics": "CCF 2026: <strong>C</strong> ·  CORE 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_c01",
+        "html": "<strong>Chenyuan Feng</strong>, Howard H. Yang, Zihan Chen, Daquan Feng, Zhenzhong Wang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/comcomap53641.2021.9652996\">On the convergence rate of federated learning over unreliable networks</a>. <em>2021 Computing, Communications and IoT Applications (ComComAp)</em>, pp. 59–64, 2021.",
+        "metrics": "<strong>Best Paper Award</strong>"
+      },
+      {
+        "key": "cf_s46",
+        "html": "Jiayu Chen, <strong>Chenyuan Feng</strong>, Daquan Feng, and Shan Meng. <a href=\"https://doi.org/10.1109/wcsp52459.2021.9613603\">Multi-edge computing offloading for ultra-reliable and low-latency communication</a>. <em>2021 13th International Conference on Wireless Communications and Signal Processing (WCSP)</em>, pp. 1–6, IEEE, 2021.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_c05",
+        "html": "<strong>Chenyuan Feng</strong>, Yidong Wang, Zhongyuan Zhao, Tony Q. S. Quek, and Mugen Peng. <a href=\"https://doi.org/10.1109/iccworkshops49005.2020.9145182\">Joint optimization of data sampling and user selection for federated learning in the mobile edge computing systems</a>. <em>2020 IEEE International Conference on Communications Workshops (ICC Workshops)</em>, pp. 1–6, 2020.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_c06",
+        "html": "<strong>Chenyuan Feng</strong>, Zuozhu Liu, Shaowei Lin, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/icassp.2019.8683050\">Attention-based graph convolutional network for recommendation system</a>. <em>ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, pp. 7560–7564, 2019.",
+        "metrics": "CCF 2026: <strong>B</strong>"
+      },
+      {
+        "key": "cf_s47",
+        "html": "<strong>Chenyuan Feng</strong>, Yi Zhong, Tony Q. S. Quek, and Gang Wu. <a href=\"https://doi.org/10.1109/icc.2017.7997482\">Power control in full duplex networks: area spectrum efficiency and energy efficency</a>. <em>2017 IEEE International Conference on Communications (ICC)</em>, pp. 1–6, IEEE, 2017.",
+        "metrics": "CCF 2026: <strong>C</strong> ·  CORE 2018: <strong>B</strong>"
+      }
+    ]
+  },
+  {
+    "id": "books",
+    "title": "Book Chapters and Reports",
+    "items": [
+      {
+        "key": "cf_s48",
+        "html": "Shuaishuai Guo, Yanhu Wang, Biqian Feng, and <strong>Chenyuan Feng</strong>. <a href=\"https://doi.org/10.1002/9781394223336.ch9\">Large language model-assisted semantic communication systems</a>. <em>Wireless Semantic Communications: Concepts, Principles, and Challenges</em>, pp. 163–182, Wiley, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "report-1",
+        "html": "<strong>Chenyuan Feng</strong>, contributor on VR/AR industry techniques and challenges to Chapter 10, “Emerging service industry,&#x27;&#x27; in <em>Report on the Development of China&#x27;s Strategic Emerging Industries 2024</em> (in Chinese). Science Press, 2024. ISBN: 9787030767417.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s39",
+        "html": "<strong>Chenyuan Feng</strong>, Daquan Feng, Zhongyuan Zhao, Geyong Min, and Hancong Duan. <a href=\"https://doi.org/10.1002/9781119913924.ch2\">Federated learning with non-IID data in mobile edge computing systems</a>. <em>Federated Learning for Future Intelligent Wireless Networks</em>, pp. 23–48, Wiley, 2023.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s91",
+        "html": "<strong>Chenyuan Feng</strong>, Daquan Feng, Zhongyuan Zhao, Howard H. Yang, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1002/9781119913924.ch1\">Federated learning with unreliable transmission in mobile edge computing systems</a>. <em>Federated Learning for Future Intelligent Wireless Networks</em>, pp. 1–22, Wiley, 2023.",
+        "metrics": ""
+      },
+      {
+        "key": "report-4",
+        "html": "<strong>Chenyuan Feng</strong>, contributor to Chapter 10, “Emerging service industry,&#x27;&#x27; in <em>Report on the Development of China&#x27;s Strategic Emerging Industries 2023</em> (in Chinese). Science Press, 2023. ISBN: 9787030736024.",
+        "metrics": ""
+      }
+    ]
+  },
+  {
+    "id": "demonstrations",
+    "title": "Demonstrations and Workshop Presentations",
+    "items": [
+      {
+        "key": "cf_c09",
+        "html": "D. Han, A. Zhang, R. Chen, <strong>Chenyuan Feng</strong><sup>*</sup>, and S. Guo. Agent in the sky: intelligent multi-agent framework for autonomous HAPS coordination and real-world event adaptation. <em>AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN)</em>, 2025, Workshop presentation.",
+        "metrics": "<strong>Workshop Best Paper Award</strong>"
+      },
+      {
+        "key": "cf_s65",
+        "html": "Wenjie Han, Anbang Zhang, Ruxiao Chen, <strong>Chenyuan Feng</strong>, Shuang Zhang, and Shuaishuai Guo. <a href=\"https://openreview.net/forum?id=lDqqTOFV2X\">Few-shot adaptive learning for robust task-oriented semantic communication</a>. <em>AAAI 2025 Workshop on Artificial Intelligence for Wireless Communications and Networking (AI4WCN)</em>, 2025, Workshop presentation.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_d01",
+        "html": "Dongshan Ye, Rundong Chen, Xijun Wang, <strong>Chenyuan Feng</strong>, Xiang Chen, and Tony Q. S. Quek. <a href=\"https://doi.org/10.1109/iccc62479.2024.10682036\">ES-ISC demo: an explainable semantics-based image semantic communication system for 6G</a>. <em>2024 IEEE/CIC International Conference on Communications in China (ICCC)</em>, pp. 305–306, 2024.",
+        "metrics": ""
+      }
+    ]
+  },
+  {
+    "id": "preprints",
+    "title": "Preprints",
+    "items": [
+      {
+        "key": "cf_s95",
+        "html": "Haojin Li, Anbang Zhang, Wai Ho Mow, <strong>Chenyuan Feng</strong>, Chen Sun, and Haijun Zhang. <a href=\"https://arxiv.org/abs/2609.29912\">Structured pose-conditioned flow matching for generative 5G CSI augmentation</a>. <em>arXiv:2609.29912</em>, 2026.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s68",
+        "html": "Xianghao Cui, Li Lan, Qi He, Bo Che, <strong>Chenyuan Feng</strong>, Zhi Chen, and Tony Q. S. Quek. <a href=\"https://arxiv.org/abs/2608.21743\">Single-model adaptive wireless image transmission via feature sparsity regularization</a>. <em>arXiv:2608.21743</em>, 2026.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s52",
+        "html": "Xijun Wang, Zhaoyang Liu, <strong>Chenyuan Feng</strong>, Xiang Chen, Howard H. Yang, and Tony Q. S. Quek. <a href=\"https://arxiv.org/abs/2605.10036\">Bridging the cognitive gap: a unified memory paradigm for 6G agentic AI-RAN</a>. <em>arXiv:2605.10036</em>, 2026.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s29",
+        "html": "Rui Meng, Zhidi Zhang, Song Gao, Yaheng Wang, Xiaodong Xu, Yijing Lin, Yiming Liu, <strong>Chenyuan Feng</strong>, Lexi Xu, Yi Ma, Ping Zhang, and Rahim Tafazolli. <a href=\"https://arxiv.org/abs/2602.15290\">Intellicise wireless networks meet agentic AI: a security and privacy perspective</a>. <em>arXiv:2602.15290</em>, 2026.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s62",
+        "html": "Anbang Zhang, <strong>Chenyuan Feng</strong>, Wai Ho Mow, Jia Ye, Shuaishuai Guo, Geyong Min, and Tony Q. S. Quek. <a href=\"https://arxiv.org/abs/2512.24334\">OptiVote: non-coherent FSO over-the-air majority vote for communication-efficient distributed federated learning in space data centers</a>. <em>arXiv:2512.24334</em>, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s22",
+        "html": "<strong>Chenyuan Feng</strong>, Anbang Zhang, Geyong Min, Yongming Huang, Tony Q. S. Quek, and Xiaohu You. <a href=\"https://arxiv.org/abs/2512.04405\">Towards 6G native-AI edge networks: a semantic-aware and agentic intelligence paradigm</a>. <em>arXiv:2512.04405</em>, 2025.",
+        "metrics": ""
+      },
+      {
+        "key": "cf_s45",
+        "html": "Xiang Chen, Shuying Gan, <strong>Chenyuan Feng</strong>, Xijun Wang, and Tony Q. S. Quek. <a href=\"https://arxiv.org/abs/2502.08221\">Take what you need: flexible multi-task semantic communications with channel adaptation</a>. <em>arXiv:2502.08221</em>, 2025.",
+        "metrics": ""
+      }
+    ]
+  }
+]

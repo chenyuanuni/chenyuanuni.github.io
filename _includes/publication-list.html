@@ -1,0 +1,19 @@
+{% assign data_key = 'publications_' | append: include.lang %}
+<div class="publication-catalog">
+{% for group in site.data[data_key] %}
+<section class="publication-section" id="{{ group.id }}" aria-labelledby="{{ group.id }}-heading">
+  <header class="publication-section__header">
+    <h2 class="publication-section__heading" id="{{ group.id }}-heading">{{ group.title }}</h2>
+    <span class="publication-section__count">{{ group.items | size }} {% if include.lang == 'zh' %}项{% else %}works{% endif %}</span>
+  </header>
+  <ol class="publication-list">
+    {% for item in group.items %}
+    <li id="{{ item.key }}">
+      <div{% unless item.key contains 'report' %} lang="en"{% endunless %}>{{ item.html }}</div>
+      {% if item.metrics != '' %}<p class="publication-metrics">{{ item.metrics }}</p>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endfor %}
+</div>

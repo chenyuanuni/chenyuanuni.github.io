@@ -1,0 +1,11 @@
+/* Content-specific additions; the original portfolio design system is unchanged. */
+.main-content .publication-metrics {
+  margin: 0.5rem 0 0;
+  color: var(--muted);
+  font-size: 0.8125rem;
+  line-height: 1.6;
+}
+.cv-entry-body { margin-top: 0.6rem; color: var(--muted); font-size: 0.9rem; }
+.main-content .cv-entry-body p { margin-top: 0.35rem; }
+.resume-summary > h3 { margin-top: 2rem; }
+.resume-summary .resume-entry strong { display: inline; }

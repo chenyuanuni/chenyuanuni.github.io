@@ -1,0 +1,39 @@
+{%- assign is_chinese = false -%}
+{%- if page.lang == "zh-CN" -%}
+  {%- assign is_chinese = true -%}
+{%- endif -%}
+
+<nav aria-label="{% if is_chinese %}主导航{% else %}Main navigation{% endif %}" id="site-nav" class="site-nav">
+  <ul class="nav-list">
+    {% for item in site.data.navigation %}
+      {% if is_chinese %}
+        {% assign item_title = item.zh %}
+        {% assign item_url = item.zh_url %}
+      {% else %}
+        {% assign item_title = item.en %}
+        {% assign item_url = item.en_url %}
+      {% endif %}
+      {% assign is_current = false %}
+      {% if page.url == item_url %}
+        {% assign is_current = true %}
+      {% endif %}
+      <li class="nav-list-item">
+        <a href="{{ item_url | relative_url }}" class="nav-list-link{% if is_current %} is-current{% endif %}"{% if is_current %} aria-current="page"{% endif %}>
+          <span>{{ item_title }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% if page.translation_url %}
+    <ul class="nav-list language-nav-list" aria-label="{% if is_chinese %}语言{% else %}Language{% endif %}">
+      <li class="nav-list-item">
+        {% if is_chinese %}
+          <a class="nav-list-link language-nav-link" lang="en" hreflang="en" href="{{ page.translation_url | relative_url }}"><span>EN</span></a>
+        {% else %}
+          <a class="nav-list-link language-nav-link" lang="zh-CN" hreflang="zh-CN" href="{{ page.translation_url | relative_url }}"><span>中文</span></a>
+        {% endif %}
+      </li>
+    </ul>
+  {% endif %}
+</nav>

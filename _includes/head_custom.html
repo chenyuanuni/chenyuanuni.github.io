@@ -1,0 +1,49 @@
+{% assign page_language = page.lang | default: "en" %}
+<meta name="theme-color" content="#f7f5ef">
+<meta name="color-scheme" content="light">
+<link rel="stylesheet" href="{{ '/assets/css/feng.css' | relative_url }}">
+<link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+{% if page.translation_url %}
+  {% if page_language == "zh-CN" %}
+    <link rel="alternate" hreflang="en" href="{{ page.translation_url | absolute_url }}">
+    <link rel="alternate" hreflang="zh-CN" href="{{ page.url | absolute_url }}">
+  {% else %}
+    <link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">
+    <link rel="alternate" hreflang="zh-CN" href="{{ page.translation_url | absolute_url }}">
+  {% endif %}
+{% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Chenyuan Feng",
+  "alternateName": "冯晨远",
+  "jobTitle": "Research Fellow",
+  "affiliation": [
+    {"@type": "CollegeOrUniversity", "name": "University of Exeter"}
+  ]
+}
+</script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var menuButton = document.getElementById("menu-button");
+    var siteNav = document.getElementById("site-nav");
+    if (!menuButton || !siteNav) return;
+
+    menuButton.addEventListener("click", function () {
+      window.setTimeout(function () {
+        menuButton.setAttribute("aria-expanded", siteNav.classList.contains("nav-open") ? "true" : "false");
+      }, 0);
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && siteNav.classList.contains("nav-open")) {
+        siteNav.classList.remove("nav-open");
+        menuButton.classList.remove("nav-open");
+        menuButton.setAttribute("aria-expanded", "false");
+        menuButton.setAttribute("aria-pressed", "false");
+        menuButton.focus();
+      }
+    });
+  });
+</script>
