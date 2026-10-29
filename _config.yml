@@ -9,7 +9,7 @@ logo: "/assets/images/banner.png"
 url: "https://chenyuanuni.github.io"
 baseurl: ""
 timezone: Asia/Shanghai
-exclude: [README.md, scripts, vendor, Gemfile, Gemfile.lock, .bundle]
+exclude: [README.md, scripts, vendor, Gemfile, Gemfile.lock, .bundle, assets/resume, websites/resume.md, websites/resume.html, zh/websites/resume.md, zh/websites/resume.html]
 
 search_enabled: false
 heading_anchors: false

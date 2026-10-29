@@ -1,6 +1,6 @@
 # Chenyuan Feng / 冯晨远 — Academic website
 
-中英双语学术主页，使用与参考网站相同的 **Jekyll + Just the Docs** 架构、布局与 SCSS 样式。包含首页、科研项目、学术成果、招生招聘、联系方式和学术简历。
+中英双语学术主页，使用与参考网站相同的 **Jekyll + Just the Docs** 架构、布局与 SCSS 样式。包含首页、科研项目、学术成果、招生招聘和联系方式。
 
 ## 本地运行
 
@@ -18,15 +18,14 @@ bash scripts/dev.sh
 ## 修改内容
 
 - `index.md`、`zh/index.md`：中英文首页。
-- `websites/`、`zh/websites/`：科研项目、学术成果、招生招聘、联系方式、简历。
-- `_data/publications_en.json`、`_data/publications_zh.json`：95 项成果，保留 CV 的五类分组及中英文期刊指标。
-- `_data/cv_en.json`、`_data/cv_zh.json`：教育、工作、项目、荣誉、报告、学术服务与专利。
-- `assets/resume/`：中英文 PDF 简历。
+- `websites/`、`zh/websites/`：科研项目、学术成果、招生招聘和联系方式。
+- `_data/publications_en.json`、`_data/publications_zh.json`：95 项成果，保留五类分组及中英文期刊指标。
+- `_data/projects_en.json`、`_data/projects_zh.json`：项目页所需的中英文项目数据。
 - `assets/bibliography/references.bib`：93 条 BibTeX 书目。
 - `_sass/custom/custom.scss`：原站完整样式系统。
-- `assets/css/feng.css`：论文指标与网页版 CV 的少量样式补充。
+- `assets/css/feng.css`：论文指标、项目列表和招生页的样式补充。
 
-从更新后的双语 LaTeX CV 重新导入内容：
+从本地双语 LaTeX 源文件导入项目与论文数据：
 
 ```bash
 python3 scripts/import_cv.py /path/to/feng_chenyuan_cv_bilingual

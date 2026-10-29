@@ -1,0 +1,71 @@
+{
+  "title": "科研项目与经费",
+  "groups": [
+    {
+      "title": "人才项目与个人资助",
+      "items": [
+        {
+          "title": "国家自然科学基金优秀青年科学基金项目（海外）",
+          "date": "2025.11",
+          "role": "项目负责人",
+          "metrics": "",
+          "body": ""
+        },
+        {
+          "title": "欧盟“地平线欧洲”玛丽·居里学者项目（MSCA）",
+          "date": "2024.01",
+          "role": "项目负责人",
+          "metrics": "经费：<strong>220,908 欧元</strong> ·  入选率：<strong>13%</strong>",
+          "body": "EIMS：边缘智能赋能的车联网多媒体服务优化。"
+        }
+      ]
+    },
+    {
+      "title": "政府与合作科研项目",
+      "items": [
+        {
+          "title": "法国复苏计划（France Relance）",
+          "date": "",
+          "role": "骨干研究人员",
+          "metrics": "",
+          "body": "Beyond 5G 项目：负责任务二，开展人工智能驱动的大规模 MIMO 毫米波通信波束赋形设计。"
+        },
+        {
+          "title": "深圳市科技创新委员会项目",
+          "date": "",
+          "role": "联合负责人",
+          "metrics": "经费：<strong>50 万元</strong> ·  入选率：<strong>5%</strong>",
+          "body": "感知与交互融合 XR 国产芯片、终端及内容分发平台研究。"
+        },
+        {
+          "title": "中国工程院咨询研究项目",
+          "date": "",
+          "role": "主要参与人",
+          "metrics": "",
+          "body": "数字经济与人工智能产业发展咨询研究。"
+        },
+        {
+          "title": "新加坡国家研究基金会与资讯通信媒体发展局",
+          "date": "",
+          "role": "学生研究人员",
+          "metrics": "",
+          "body": "未来通信研究与发展计划（Future Communications Research &amp; Development Program）。"
+        },
+        {
+          "title": "中兴通讯产学研合作项目",
+          "date": "",
+          "role": "联合负责人",
+          "metrics": "经费：<strong>45 万元</strong> ·  入选率：<strong>10%</strong>",
+          "body": "基于神经辐射场（NeRF）的三维重建技术研究。"
+        },
+        {
+          "title": "成都市政府招商引资创业资助项目",
+          "date": "",
+          "role": "项目负责人、创始人",
+          "metrics": "经费：<strong>500 万元</strong> ·  入选率：<strong>0.1%</strong>",
+          "body": "智能无人系统研发创业项目。"
+        }
+      ]
+    }
+  ]
+}

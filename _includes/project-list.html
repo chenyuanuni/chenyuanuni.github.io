@@ -1,5 +1,5 @@
-{% assign data_key = 'cv_' | append: include.lang %}
-{% assign projects = site.data[data_key][2] %}
+{% assign data_key = 'projects_' | append: include.lang %}
+{% assign projects = site.data[data_key] %}
 {% for group in projects.groups %}
 <section class="project-ledger-section" aria-labelledby="project-group-{{ forloop.index }}">
   <header class="section-heading"><h2 id="project-group-{{ forloop.index }}">{{ group.title }}</h2></header>

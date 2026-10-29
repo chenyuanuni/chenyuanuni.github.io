@@ -20,3 +20,9 @@ vendor/
 .vscode/
 *.swp
 *~
+
+# CV downloads and full CV data are kept outside this website repository
+/assets/resume/
+/_data/cv_*.json
+/websites/resume.*
+/zh/websites/resume.*

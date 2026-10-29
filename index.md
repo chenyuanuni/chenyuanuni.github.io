@@ -18,7 +18,6 @@ description: Chenyuan Feng works on edge intelligence, AI-native radio access ne
     <div class="hero-actions" aria-label="Explore this website">
       <a class="button button--primary" href="#research-title">Research areas</a>
       <a class="button button--secondary" href="{{ '/websites/publications/' | relative_url }}">Publications</a>
-      <a class="button button--text" href="{{ '/websites/resume/' | relative_url }}">CV</a>
     </div>
   </div>
 </section>

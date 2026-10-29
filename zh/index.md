@@ -18,7 +18,6 @@ description: 冯晨远研究边缘智能、AI 原生无线接入网与智能体�
     <div class="hero-actions" aria-label="浏览网站">
       <a class="button button--primary" href="#research-title">研究方向</a>
       <a class="button button--secondary" href="{{ '/zh/websites/publications/' | relative_url }}">成果</a>
-      <a class="button button--text" href="{{ '/zh/websites/resume/' | relative_url }}">简历</a>
     </div>
   </div>
 </section>

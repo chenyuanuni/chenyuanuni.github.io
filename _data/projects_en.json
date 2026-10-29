@@ -1,0 +1,71 @@
+{
+  "title": "RESEARCH PROJECTS AND GRANTS",
+  "groups": [
+    {
+      "title": "Talent Programs and Individual Fellowships",
+      "items": [
+        {
+          "title": "NSFC Excellent Young Scientists Fund (Overseas)",
+          "date": "November 2025",
+          "role": "Principal investigator",
+          "metrics": "",
+          "body": ""
+        },
+        {
+          "title": "Horizon Europe: Marie Skłodowska-Curie Actions (MSCA)",
+          "date": "January 2024",
+          "role": "Principal investigator",
+          "metrics": "<strong>EUR 220,908</strong> ·  Acceptance rate: <strong>13%</strong>",
+          "body": "EIMS: Edge Intelligence Empowered Vehicular Multimedia Service Optimization."
+        }
+      ]
+    },
+    {
+      "title": "Government and Collaborative Research",
+      "items": [
+        {
+          "title": "France Relance programme",
+          "date": "",
+          "role": "Main investigator",
+          "metrics": "",
+          "body": "Beyond 5G Project. Responsible for Task 2: AI-driven beamforming design for massive MIMO millimetre-wave communications."
+        },
+        {
+          "title": "Shenzhen Science and Technology Innovation Commission, China",
+          "date": "",
+          "role": "Co-principal investigator",
+          "metrics": "<strong>RMB 500,000</strong> ·  Acceptance rate: <strong>5%</strong>",
+          "body": "Integrated Perception and Interactive XR: Domestic Chips, Terminals, and a Content Distribution Platform."
+        },
+        {
+          "title": "Chinese Academy of Engineering, China",
+          "date": "",
+          "role": "Main participant",
+          "metrics": "",
+          "body": "Consulting Project on Digital Economy and AI Industry Development."
+        },
+        {
+          "title": "Singapore National Research Foundation and Infocomm Media Development Authority",
+          "date": "",
+          "role": "Student participant",
+          "metrics": "",
+          "body": "Future Communications Research &amp; Development Program."
+        },
+        {
+          "title": "ZTE Corporation, China",
+          "date": "",
+          "role": "Co-principal investigator",
+          "metrics": "<strong>RMB 450,000</strong> ·  Acceptance rate: <strong>10%</strong>",
+          "body": "NeRF-Based Three-Dimensional Reconstruction Techniques; industry–university research grant."
+        },
+        {
+          "title": "Merchant &amp; Investment Bureau, Chengdu Government, China",
+          "date": "",
+          "role": "Principal investigator and founder",
+          "metrics": "<strong>RMB 5,000,000</strong> ·  Acceptance rate: <strong>0.1%</strong>",
+          "body": "Enterprise Start-up Grant for Intelligent Unmanned Systems R&amp;D."
+        }
+      ]
+    }
+  ]
+}

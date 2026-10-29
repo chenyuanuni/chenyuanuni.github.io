@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Import the bilingual LaTeX CV into the site's editable JSON data."""
+"""Import project and publication data from the local bilingual LaTeX source."""
 import html
 import json
 import re
@@ -104,8 +104,8 @@ def citation(key,corresponding):
 
 pubs=[]
 for lang in ('en','zh'):
-    sections=profile(CV/'sections'/lang/'profile.tex')+profile(CV/'sections'/lang/'engagement.tex')
-    (SITE/'_data'/('cv_'+lang+'.json')).write_text(json.dumps(sections,ensure_ascii=False,indent=2)+'\n')
+    projects=profile(CV/'sections'/lang/'profile.tex')[2]
+    (SITE/'_data'/('projects_'+lang+'.json')).write_text(json.dumps(projects,ensure_ascii=False,indent=2)+'\n')
     groups=[];idx=-1
     for line in (CV/'sections'/lang/'publications.tex').read_text().splitlines():
         if line.startswith(r'\cvgroup'):
@@ -126,6 +126,6 @@ for lang in ('en','zh'):
             groups[idx]['items'].append(item)
     assert sum(len(g['items']) for g in groups)==95
     (SITE/'_data'/('publications_'+lang+'.json')).write_text(json.dumps(groups,ensure_ascii=False,indent=2)+'\n')
-    print(lang, len(sections), 'CV sections;',sum(len(g['items']) for g in groups),'publication entries')
+    print(lang, len(projects['groups']), 'project groups;',sum(len(g['items']) for g in groups),'publication entries')
 (SITE/'assets/bibliography').mkdir(exist_ok=True)
 shutil.copy2(CV/'references.bib',SITE/'assets/bibliography/references.bib')
