@@ -5,25 +5,28 @@ lang: zh-CN
 nav_exclude: true
 permalink: /zh/
 translation_url: /
-description: 冯晨远从事无线通信与分布式人工智能研究，即将以副教授身份入职中山大学，招聘博士后、博士和硕士研究生及研究助理。
+description: 冯晨远研究边缘智能、AI 原生无线接入网与智能体驱动的自治网络，即将加入中山大学任副教授，招收研究生并招聘博士后和研究助理。
 ---
 
 <section class="home-hero" aria-labelledby="home-title">
   <div class="home-hero__copy">
     <h1 id="home-title" class="home-hero__title">
       <span class="home-hero__name">冯晨远</span>
-      <span class="home-hero__statement">面向原生 AI 无线网络的边缘智能研究。</span>
+      <span class="home-hero__statement">边缘智能与 AI 原生网络</span>
     </h1>
-    <p class="home-hero__lede">即将以<strong>副教授身份入职中山大学</strong>。现为英国埃克塞特大学研究员、欧盟玛丽·居里学者项目 EIMS 负责人，从事无线通信与分布式人工智能研究。</p>
+    <p class="home-hero__lede">现任英国埃克塞特大学研究员，主持欧盟玛丽·居里项目 EIMS。主要研究人工智能与通信网络的协同设计，关注边缘学习、无线接入与网络自治。</p>
     <div class="hero-actions" aria-label="浏览网站">
-      <a class="button button--primary" href="{{ '/zh/websites/projects/' | relative_url }}">研究</a>
+      <a class="button button--primary" href="#research-title">研究方向</a>
       <a class="button button--secondary" href="{{ '/zh/websites/publications/' | relative_url }}">成果</a>
       <a class="button button--text" href="{{ '/zh/websites/resume/' | relative_url }}">简历</a>
     </div>
-    <div class="home-openings"><p><strong>欢迎加入团队。</strong>招聘博士后、博士/硕士研究生及研究助理。</p><a class="text-link" href="{{ '/zh/websites/contact/' | relative_url }}">了解招生与招聘 <span aria-hidden="true">→</span></a></div>
   </div>
 </section>
-<figure class="hero-visual">
+<section class="recruitment-notice" aria-labelledby="recruitment-title">
+  <header><p class="section-kicker">中山大学</p><h2 id="recruitment-title">招生与招聘</h2></header>
+  <div class="recruitment-notice__body"><p>我即将加入中山大学，担任副教授。现招收博士、硕士研究生，并招聘博士后和研究助理。欢迎对下列研究方向感兴趣的同学与研究人员联系申请。</p><a class="text-link" href="{{ '/zh/websites/join/' | relative_url }}">查看机会与申请方式 <span aria-hidden="true">→</span></a></div>
+</section>
+<figure class="hero-visual home-research-visual">
   <img src="{{ '/assets/images/banner.png' | relative_url }}" width="1200" height="280" alt="蓝色与橙色的抽象绘画场景" fetchpriority="high">
 </figure>
 <section class="home-section biography" aria-labelledby="biography-title">
@@ -37,7 +40,7 @@ description: 冯晨远从事无线通信与分布式人工智能研究，即将�
 <section class="home-section appointments" aria-labelledby="appointments-title">
   <header class="section-heading"><p class="section-kicker">任职经历</p><h2 id="appointments-title">学术任职</h2></header>
   <ol class="record-list">
-    <li class="record-entry"><span class="record-index" aria-hidden="true">01</span><article><p class="record-meta"><span>即将入职</span><span>中山大学</span></p><h3>副教授</h3><p class="record-description">招聘博士后、博士/硕士研究生及研究助理。</p></article></li>
+    <li class="record-entry"><span class="record-index" aria-hidden="true">01</span><article><p class="record-meta"><span>即将入职</span><span>中山大学</span></p><h3>副教授</h3></article></li>
     <li class="record-entry"><span class="record-index" aria-hidden="true">02</span><article><p class="record-meta"><span>2025.02 – 至今</span><span>英国埃克塞特大学</span></p><h3>研究员</h3><p class="record-description">计算机科学系 · EIMS / MSCA</p></article></li>
     <li class="record-entry"><span class="record-index" aria-hidden="true">03</span><article><p class="record-meta"><span>2024.02 – 2025.01</span><span>法国 EURECOM</span></p><h3>研究员</h3><p class="record-description">Beyond 5G 与 6G-Goals 项目的网络内生人工智能研究</p></article></li>
   </ol>
@@ -45,12 +48,12 @@ description: 冯晨远从事无线通信与分布式人工智能研究，即将�
 <section class="home-section research-overview" aria-labelledby="research-title">
   <header class="section-heading">
     <p class="section-kicker">研究</p>
-    <h2 id="research-title">三个相互关联的研究方向</h2>
+    <h2 id="research-title">研究方向</h2>
   </header>
   <div class="research-list">
-    <article class="research-list__item"><span class="research-list__number" aria-hidden="true">01</span><h3>边缘智能与联邦学习</h3><p>研究终端与边缘网络中的分布式学习、隐私保护优化及智能服务。</p></article>
-    <article class="research-list__item"><span class="research-list__number" aria-hidden="true">02</span><h3>原生 AI 无线接入网</h3><p>研究下一代无线系统的 AI-RAN 架构、基础大模型与智能体协同。</p></article>
-    <article class="research-list__item"><span class="research-list__number" aria-hidden="true">03</span><h3>语义通信与车联网</h3><p>研究车联网与低空网络中的任务导向通信、鲁棒网络控制和多媒体传输。</p></article>
+    <article class="research-list__item"><span class="research-list__number" aria-hidden="true">01</span><h3>边缘智能</h3><p>面向终端与边缘系统，研究分布式学习、协同推理，以及通信与计算资源的联合优化。</p></article>
+    <article class="research-list__item"><span class="research-list__number" aria-hidden="true">02</span><h3>AI 原生无线接入网（AI-RAN）</h3><p>研究学习驱动的无线传输、AI 与无线资源协同调度，以及面向下一代通信系统的无线接入网架构。</p></article>
+    <article class="research-list__item"><span class="research-list__number" aria-hidden="true">03</span><h3>智能体驱动的自治网络</h3><p>研究网络智能体的感知、推理与决策机制，以及多智能体协同、任务规划和网络闭环控制。</p></article>
   </div>
   <a class="text-link" href="{{ '/zh/websites/projects/' | relative_url }}">查看项目详情 <span aria-hidden="true">→</span></a>
 </section>

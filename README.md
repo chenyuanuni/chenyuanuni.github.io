@@ -1,6 +1,6 @@
 # Chenyuan Feng / 冯晨远 — Academic website
 
-中英双语学术主页，使用与参考网站相同的 **Jekyll + Just the Docs** 架构、布局与 SCSS 样式。包含首页、科研项目、学术成果、联系方式和学术简历。
+中英双语学术主页，使用与参考网站相同的 **Jekyll + Just the Docs** 架构、布局与 SCSS 样式。包含首页、科研项目、学术成果、招生招聘、联系方式和学术简历。
 
 ## 本地运行
 
@@ -18,7 +18,7 @@ bash scripts/dev.sh
 ## 修改内容
 
 - `index.md`、`zh/index.md`：中英文首页。
-- `websites/`、`zh/websites/`：科研项目、学术成果、联系方式、简历。
+- `websites/`、`zh/websites/`：科研项目、学术成果、招生招聘、联系方式、简历。
 - `_data/publications_en.json`、`_data/publications_zh.json`：95 项成果，保留 CV 的五类分组及中英文期刊指标。
 - `_data/cv_en.json`、`_data/cv_zh.json`：教育、工作、项目、荣誉、报告、学术服务与专利。
 - `assets/resume/`：中英文 PDF 简历。
